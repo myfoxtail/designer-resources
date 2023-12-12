@@ -7,6 +7,7 @@
 - [TinyType](https://tinytype.co/)
 - [PangramPangram](https://pangrampangram.com/)
 - [Kilm Type Foundry](https://klim.co.nz/)
+- [Groteskly Yours](https://groteskly.xyz/)
 
 # photography
 - [Death To Stock](https://app.deathtothestockphoto.com/)
