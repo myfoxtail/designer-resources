@@ -15,6 +15,7 @@
 - [Jay Mantri](https://jaymantri.com/)
 - [Foodiesfeed](https://www.foodiesfeed.com/)
 - [NASA images](https://images.nasa.gov/)
+- [Pexels](https://www.pexels.com/)
 
 # mockups
 - [Anthony Boyd](https://www.anthonyboyd.graphics/)
