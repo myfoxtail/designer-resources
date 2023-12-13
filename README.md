@@ -29,3 +29,6 @@
 
 # textures
 - [FreeStockTextures](https://freestocktextures.com/)
+
+# tools
+- [QR code generator](https://new.express.adobe.com/tools/generate-qr-code)
