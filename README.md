@@ -34,3 +34,8 @@
 
 # tools
 - [QR code generator](https://new.express.adobe.com/tools/generate-qr-code)
+- [Gradientor](https://gradientor.afterimage.cc/)
+
+# exercises
+- [Practice kerning, bezier, etc](https://method.ac/)
+- [Hofmann](https://bbtgnn.github.io/hofmann-1.0.0/about.html)
